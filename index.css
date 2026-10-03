@@ -16,6 +16,11 @@ header {
   align-items: center;
 }
 
+.hyperlink {
+  text-decoration: none;
+  color: black;
+}
+
 #hook {
   width: 100%;
   height: 640px;
